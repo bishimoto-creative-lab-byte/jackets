@@ -17,6 +17,8 @@ SUZURIの「ジャケ写シリーズ」に登録した曲の画像を、元の�
 | 10 | つんつんぽんぽん | tuntun-ponpon.png | [21278783](https://suzuri.jp/bishimoto-creative-lab/21278783/t-shirt/s/white) |
 | 13 | 依存デイズ♡ | izon-days.png | [21278338](https://suzuri.jp/bishimoto-creative-lab/21278338/t-shirt/s/white) |
 | 14 | cat life | cat-life.png | [21278213](https://suzuri.jp/bishimoto-creative-lab/21278213/t-shirt/s/white) |
+| 16 | 架空偉人伝 ～ゴリラー・ハミデル～ | kakuu-ijinden-gorilla-hamideru.png | [21342116](https://suzuri.jp/bishimoto-creative-lab/21342116/t-shirt/s/white) |
 | 17 | Botanical Diary | botanical-diary.png | [21290153](https://suzuri.jp/bishimoto-creative-lab/21290153/t-shirt/s/white) |
+| 23 | アルゴリズム・ダイアリー | algorithm-diary.png | [21342118](https://suzuri.jp/bishimoto-creative-lab/21342118/t-shirt/s/white) |
 
 No. はホームページの作品一覧の番号です。
