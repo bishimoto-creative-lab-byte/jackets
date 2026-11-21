@@ -11,6 +11,7 @@ SUZURIの「ジャケ写シリーズ」に登録した曲の画像を、元の�
 
 | No. | 曲名 | ファイル | SUZURI |
 |---|---|---|---|
+| 01 | Life Is a Cloud | life-is-a-cloud.png | [21430572](https://suzuri.jp/bishimoto-creative-lab/21430572/t-shirt/s/white) |
 | 05 | Laundry Drummer | laundry-drummer.png | [21290152](https://suzuri.jp/bishimoto-creative-lab/21290152/t-shirt/s/white) |
 | 06 | 一字金輪仏頂尊 | ichiji-kinrin-butchoson.png | [21290150](https://suzuri.jp/bishimoto-creative-lab/21290150/t-shirt/s/white) |
 | 09 | トーキョー・デニッシュ | tokyo-danish.png | [21270235](https://suzuri.jp/bishimoto-creative-lab/21270235/t-shirt/s/white) |
