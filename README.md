@@ -15,6 +15,7 @@ SUZURIの「ジャケ写シリーズ」に登録した曲の画像を、元の�
 | 02 | SUVに乗りたくて | suv-ni-noritakute.png | [21430614](https://suzuri.jp/bishimoto-creative-lab/21430614/t-shirt/s/white) |
 | 05 | Laundry Drummer | laundry-drummer.png | [21290152](https://suzuri.jp/bishimoto-creative-lab/21290152/t-shirt/s/white) |
 | 06 | 一字金輪仏頂尊 | ichiji-kinrin-butchoson.png | [21290150](https://suzuri.jp/bishimoto-creative-lab/21290150/t-shirt/s/white) |
+| 07 | Optimize Ais | optimize-ais.png | [21430616](https://suzuri.jp/bishimoto-creative-lab/21430616/t-shirt/s/white) |
 | 09 | トーキョー・デニッシュ | tokyo-danish.png | [21270235](https://suzuri.jp/bishimoto-creative-lab/21270235/t-shirt/s/white) |
 | 10 | つんつんぽんぽん | tuntun-ponpon.png | [21278783](https://suzuri.jp/bishimoto-creative-lab/21278783/t-shirt/s/white) |
 | 13 | 依存デイズ♡ | izon-days.png | [21278338](https://suzuri.jp/bishimoto-creative-lab/21278338/t-shirt/s/white) |
