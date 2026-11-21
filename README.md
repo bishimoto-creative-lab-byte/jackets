@@ -23,5 +23,6 @@ SUZURIの「ジャケ写シリーズ」に登録した曲の画像を、元の�
 | 16 | 架空偉人伝 ～ゴリラー・ハミデル～ | kakuu-ijinden-gorilla-hamideru.png | [21342116](https://suzuri.jp/bishimoto-creative-lab/21342116/t-shirt/s/white) |
 | 17 | Botanical Diary | botanical-diary.png | [21290153](https://suzuri.jp/bishimoto-creative-lab/21290153/t-shirt/s/white) |
 | 23 | アルゴリズム・ダイアリー | algorithm-diary.png | [21342118](https://suzuri.jp/bishimoto-creative-lab/21342118/t-shirt/s/white) |
+| 28 | 宇宙のカケラ | uchuu-no-kakera.png | [21430743](https://suzuri.jp/bishimoto-creative-lab/21430743/t-shirt/s/white) |
 
 No. はホームページの作品一覧の番号です。
